@@ -8,4 +8,9 @@ public class sampele {
 	public void simple() {
 		System.out.println("Finally");
 	}
+	
+	@Test
+	public void simple2() {
+		System.out.println("Finally done");
+	}
 }
