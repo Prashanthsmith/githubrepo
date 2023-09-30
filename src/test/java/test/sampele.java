@@ -7,6 +7,8 @@ public class sampele {
 	@Test
 	public void simple() {
 		System.out.println("Finally");
+		
+		
 	}
 	
 	@Test
