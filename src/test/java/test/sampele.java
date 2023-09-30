@@ -12,5 +12,6 @@ public class sampele {
 	@Test
 	public void simple2() {
 		System.out.println("Finally done");
+		
 	}
 }
