@@ -8,4 +8,10 @@ public class ScmExecutionTest {
 		System.out.println("Scm is working");
 	}
 
+	@Test
+	public void ece() {
+		System.out.println("dkjbaf");
+		
+	}
+
 }
