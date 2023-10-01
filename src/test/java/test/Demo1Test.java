@@ -1,12 +1,11 @@
-
 package test;
 
 import org.testng.annotations.Test;
 
-public class Demo {
-	@Test 
+public class Demo1Test {
+	@Test
 	public void demo() {
-		System.out.println("Bye");
+		System.out.println("Created Sucessfully");
 	}
 
 }
